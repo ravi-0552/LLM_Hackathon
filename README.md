@@ -180,4 +180,18 @@ python main.py
 - N.sartak
 Developed as part of the LLM Hackathon.
 
+## 🙏 Acknowledgements
+
+This project was developed using the following open-source libraries and APIs:
+
+* **Google Gemini API & Google GenAI Python SDK** – Used for text generation and embedding generation.
+* **ChromaDB** – Used as the vector database for storing and retrieving professor profile embeddings.
+* **LangGraph** – Used to build the AI agent workflow and tool routing.
+* **LangChain Core** – Used alongside LangGraph for workflow components.
+* **Tavily Search API** – Used to retrieve up-to-date research information from the web.
+* **python-dotenv** – Used for securely loading API keys from environment variables.
+* **Pydantic** – Used for structured output parsing and data validation.
+
+We thank the developers and maintainers of these open-source projects for making them available to the community.
+
 Thank you for checking out our project!
