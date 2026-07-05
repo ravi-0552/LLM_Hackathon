@@ -1,0 +1,33 @@
+Professor Name: Dr. Rahul Iyer
+
+Department:
+Computer Science and Engineering
+
+Designation:
+Professor
+
+Research Interests:
+- Distributed Systems
+- Cloud Computing
+- Edge Computing
+- Kubernetes
+
+Courses Taught:
+- Distributed Computing
+- Cloud Computing
+- Operating Systems
+
+Publications:
+- 70 Research Papers
+- 3000+ Citations
+
+Current Projects:
+- Smart Edge Computing Framework
+- Energy Efficient Cloud Scheduling
+
+Office Hours:
+Wednesday
+11:00 AM – 1:00 PM
+
+Email:
+rahul.iyer@university.edu

@@ -1,0 +1,45 @@
+Here are the three most relevant professors based on the student's interest in Computer Vision:
+
+---
+
+**1. Dr. Vikram Sharma**
+
+*   **Name:** Dr. Vikram Sharma
+*   **Research Interests:** Computer Vision, Deep Learning, Image Processing, Object Detection, Medical Image Analysis, Autonomous Systems, Video Analytics
+*   **Courses:** Computer Vision, Deep Learning, Digital Image Processing, Artificial Intelligence, Machine Learning
+*   **Why they match the student's interests:** Dr. Sharma's expertise is a direct and strong match for "Computer Vision." His research interests, keywords, current projects (e.g., "Vision-based smart traffic monitoring system," "AI-powered autonomous drone navigation"), courses taught, and areas available for student guidance explicitly include Computer Vision, Deep Learning, Image Processing, and related fields. His biography also states that students interested in Computer Vision frequently work under his guidance.
+
+---
+
+**2. Dr. Priya Nair**
+
+*   **Name:** Dr. Priya Nair
+*   **Research Interests:** Internet of Things, Edge AI, Smart Cities, Wireless Sensor Networks, Embedded Systems, Industrial IoT
+*   **Courses:** Internet of Things, Embedded Systems, Computer Networks, Edge Computing, Wireless Sensor Networks
+*   **Why they match the student's interests:** Based on the provided information, Dr. Priya Nair's primary research and teaching focus is on the Internet of Things, Edge AI, and embedded systems, with applications in smart agriculture and smart cities. Her profile does not indicate a specialization in "Computer Vision." Therefore, she does not directly match the student's interest in Computer Vision.
+
+---
+
+**3. Dr. Ananya Rao**
+
+*   **Name:** Dr. Ananya Rao
+*   **Research Interests:** Natural Language Processing (NLP), Large Language Models (LLMs), Information Retrieval, Question Answering Systems, Machine Translation, Conversational AI, Text Summarization, Multilingual Artificial Intelligence
+*   **Courses:** Artificial Intelligence, Natural Language Processing, Machine Learning, Information Retrieval, Data Structures
+*   **Why they match the student's interests:** Based on the provided information, Dr. Ananya Rao's primary research and teaching focus is on Natural Language Processing (NLP) and Large Language Models (LLMs). Her profile does not indicate any specialization in "Computer Vision." Therefore, she does not directly match the student's interest in Computer Vision.
+============================================================
+================================================================================
+🥇 Dr. Ananya Rao
+Reason: Dr. Ananya Rao's entire profile is dedicated to Natural Language Processing (NLP). Her research interests, projects, and courses taught are directly aligned with NLP, Large Language Models, and related applications. She also explicitly lists NLP and LLMs as areas for student guidance.
+Research Areas:
+*   **Research Interests:** Natural Language Processing (NLP), Large Language Models (LLMs), Information Retrieval, Question Answering Systems, Machine Translation, Conversational AI, Text Summarization, Multilingual Artificial Intelligence.
+*   **Courses Taught:** Natural Language Processing, Information Retrieval.
+*   **Current Research Projects:** AI-powered multilingual educational assistant for Indian languages, Retrieval-Augmented Question Answering System for university academic resources, Low-resource machine translation between Telugu and English, Conversational AI assistant for higher education.
+
+🥈 No other professors in the provided profiles specialize in Natural Language Processing.
+Reason: Information unavailable.
+Research Areas: Information unavailable.
+
+🥉 No other professors in the provided profiles specialize in Natural Language Processing.
+Reason: Information unavailable.
+Research Areas: Information unavailable.
+

@@ -1,0 +1,32 @@
+Professor Name: Dr. Vikram Rao
+
+Department:
+Electronics and Communication Engineering
+
+Designation:
+Professor
+
+Research Interests:
+- IoT
+- Wireless Sensor Networks
+- Embedded Systems
+- Smart Cities
+
+Courses Taught:
+- Embedded Systems
+- Internet of Things
+- Microcontrollers
+
+Publications:
+- 81 Publications
+
+Current Projects:
+- Smart Agriculture IoT
+- Smart Campus
+
+Office Hours:
+Friday
+2:00 PM – 4:00 PM
+
+Email:
+vikram.rao@university.edu

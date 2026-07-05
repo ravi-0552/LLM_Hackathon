@@ -1,0 +1,59 @@
+Name: Dr. Karthik Menon
+
+Department: Computer Science and Engineering
+
+Designation: Professor
+
+Experience: 17 Years
+
+Highest Qualification: Ph.D. in Machine Learning, IIT Kanpur
+
+Research Interests:
+Machine Learning, Explainable AI, Reinforcement Learning, Predictive Modeling, Artificial Intelligence, Decision Support Systems
+
+Research Keywords:
+Machine Learning, Explainable AI, Reinforcement Learning, Neural Networks, Classification, Regression, Model Interpretability, AI Ethics
+
+Current Research Projects:
+1. Explainable AI for Financial Risk Prediction.
+2. Reinforcement Learning for Autonomous Decision Making.
+3. Responsible AI Frameworks.
+4. AI-assisted Decision Support Systems.
+
+Selected Publications:
+1. Explainable Machine Learning for Healthcare (2025)
+2. Reinforcement Learning in Autonomous Systems (2024)
+3. Interpretable AI Models for Financial Analytics (2023)
+
+Courses Taught:
+Machine Learning
+Artificial Intelligence
+Deep Learning
+Reinforcement Learning
+Data Science
+
+Research Laboratory:
+Intelligent Systems and Machine Learning Lab
+
+Professional Memberships:
+IEEE
+ACM
+
+Awards:
+Outstanding Research Excellence Award (2024)
+
+Available for Student Guidance:
+Machine Learning
+Explainable AI
+Reinforcement Learning
+Artificial Intelligence
+Data Science
+
+Office:
+Block C, Room 312
+
+Email:
+karthik.menon@auroratech.edu
+
+Biography:
+Dr. Karthik Menon is a senior researcher in Machine Learning and Explainable AI. His work focuses on developing intelligent systems that are accurate, transparent, and trustworthy. He has supervised numerous student projects involving predictive analytics, reinforcement learning, recommendation systems, and responsible AI. Students interested in core machine learning algorithms, model interpretability, and intelligent decision-making systems frequently work under his guidance.

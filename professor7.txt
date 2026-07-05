@@ -1,0 +1,34 @@
+Professor Name: Dr. Ananya Sharma
+
+Department:
+Computer Science and Engineering
+
+Designation:
+Associate Professor
+
+Research Interests:
+- Explainable AI (XAI)
+- Healthcare AI
+- Medical Image Analysis
+- Machine Learning
+
+Courses Taught:
+- Artificial Intelligence
+- Machine Learning
+- Data Mining
+
+Publications:
+- 52 International Publications
+- 1800+ Citations
+- h-index: 22
+
+Current Projects:
+- AI-assisted Disease Diagnosis
+- Explainable Clinical Decision Systems
+
+Office Hours:
+Tuesday and Thursday
+2:00 PM – 4:00 PM
+
+Email:
+ananya.sharma@university.edu

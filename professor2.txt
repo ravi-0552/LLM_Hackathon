@@ -1,0 +1,60 @@
+Name: Dr. Vikram Sharma
+
+Department: Computer Science and Engineering
+
+Designation: Professor
+
+Experience: 18 Years
+
+Highest Qualification: Ph.D. in Computer Vision, Indian Institute of Science Bangalore
+
+Research Interests:
+Computer Vision, Deep Learning, Image Processing, Object Detection, Medical Image Analysis, Autonomous Systems, Video Analytics
+
+Research Keywords:
+Computer Vision, CNN, Deep Learning, YOLO, Image Segmentation, Face Recognition, Object Detection, OpenCV, Vision Transformers, Medical Imaging
+
+Current Research Projects:
+1. Vision-based smart traffic monitoring system.
+2. Deep Learning for medical image diagnosis.
+3. AI-powered autonomous drone navigation.
+4. Real-time object detection using Vision Transformers.
+
+Selected Publications:
+1. Vision Transformers for Smart Surveillance (2025)
+2. Medical Image Segmentation using Deep Learning (2024)
+3. Object Detection for Autonomous Vehicles (2024)
+4. Deep Learning Architectures for Computer Vision (2023)
+
+Courses Taught:
+Computer Vision
+Deep Learning
+Digital Image Processing
+Artificial Intelligence
+Machine Learning
+
+Research Laboratory:
+Visual Computing Research Centre
+
+Professional Memberships:
+IEEE Computer Society
+CVF
+
+Awards:
+Best Faculty Research Award (2024)
+
+Available for Student Guidance:
+Computer Vision
+Deep Learning
+Image Processing
+Medical Imaging
+Autonomous Systems
+
+Office:
+Block C, Room 309
+
+Email:
+vikram.sharma@auroratech.edu
+
+Biography:
+Dr. Vikram Sharma specializes in Computer Vision and Deep Learning. His research explores intelligent image understanding, object detection, medical imaging, autonomous systems, and video analytics. He has supervised numerous projects involving smart surveillance, autonomous drones, healthcare imaging, and AI-powered vision applications. His laboratory focuses on applying convolutional neural networks, vision transformers, and modern deep learning architectures to solve real-world problems. Students interested in Computer Vision, Deep Learning, autonomous vehicles, robotics vision, or medical image analysis often work under his guidance. His research combines practical engineering with state-of-the-art AI techniques.

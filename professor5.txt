@@ -1,0 +1,58 @@
+Name: Dr. Priya Nair
+
+Department: Computer Science and Engineering
+
+Designation: Assistant Professor
+
+Experience: 9 Years
+
+Highest Qualification: Ph.D. in Internet of Things, NIT Trichy
+
+Research Interests:
+Internet of Things, Edge AI, Smart Cities, Wireless Sensor Networks, Embedded Systems, Industrial IoT
+
+Research Keywords:
+IoT, Edge Computing, Edge AI, Smart Sensors, Raspberry Pi, Arduino, Embedded AI, TinyML, Smart Agriculture
+
+Current Research Projects:
+1. Edge AI for Smart Agriculture.
+2. Intelligent Smart City Infrastructure.
+3. TinyML for Environmental Monitoring.
+4. Energy Efficient IoT Networks.
+
+Selected Publications:
+1. TinyML Applications in Agriculture (2025)
+2. Edge AI for Smart Cities (2024)
+3. Energy Efficient IoT Systems (2023)
+
+Courses Taught:
+Internet of Things
+Embedded Systems
+Computer Networks
+Edge Computing
+Wireless Sensor Networks
+
+Research Laboratory:
+Smart Systems and IoT Innovation Lab
+
+Professional Memberships:
+IEEE IoT Society
+
+Awards:
+Young Researcher Award (2024)
+
+Available for Student Guidance:
+Internet of Things
+Embedded Systems
+Edge AI
+Smart Cities
+TinyML
+
+Office:
+Block B, Room 108
+
+Email:
+priya.nair@auroratech.edu
+
+Biography:
+Dr. Priya Nair works in the fields of Internet of Things, Edge AI, and embedded intelligence. Her research combines low-power computing with artificial intelligence to build efficient smart systems. She supervises projects involving smart agriculture, intelligent transportation, environmental monitoring, and industrial automation using IoT devices and edge computing platforms. Students interested in hardware-integrated AI systems often select her as a project mentor.

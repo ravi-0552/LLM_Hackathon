@@ -1,0 +1,62 @@
+Name: Dr. Ananya Rao
+
+Department: Computer Science and Engineering
+
+Designation: Associate Professor
+
+Experience: 14 Years
+
+Highest Qualification: Ph.D. in Computer Science, Indian Institute of Technology Madras
+
+Research Interests:
+Natural Language Processing (NLP), Large Language Models (LLMs), Information Retrieval, Question Answering Systems, Machine Translation, Conversational AI, Text Summarization, Multilingual Artificial Intelligence
+
+Research Keywords:
+NLP, LLM, Transformer Models, Retrieval-Augmented Generation (RAG), Information Retrieval, BERT, GPT, Machine Translation, Semantic Search, Embeddings
+
+Current Research Projects:
+1. AI-powered multilingual educational assistant for Indian languages.
+2. Retrieval-Augmented Question Answering System for university academic resources.
+3. Low-resource machine translation between Telugu and English.
+4. Conversational AI assistant for higher education.
+
+Selected Publications:
+1. Dense Retrieval Techniques for Educational Question Answering (2025)
+2. Retrieval-Augmented Learning Systems for Universities (2024)
+3. Cross-Lingual Information Retrieval using Transformer Models (2024)
+4. Improving Low Resource Machine Translation using LLMs (2023)
+
+Courses Taught:
+Artificial Intelligence
+Natural Language Processing
+Machine Learning
+Information Retrieval
+Data Structures
+
+Research Laboratory:
+Language Intelligence and AI Research Lab
+
+Professional Memberships:
+IEEE
+Association for Computational Linguistics (ACL)
+
+Awards:
+Best Research Paper Award (2023)
+Outstanding Faculty Award (2022)
+
+Available for Student Guidance:
+Natural Language Processing
+Large Language Models
+Machine Learning
+Educational AI
+Chatbot Development
+Question Answering Systems
+
+Office:
+Block C, Room 304
+
+Email:
+ananya.rao@auroratech.edu
+
+Biography:
+Dr. Ananya Rao has over fourteen years of teaching and research experience in Artificial Intelligence and Natural Language Processing. Her primary research focuses on Large Language Models, Information Retrieval, Retrieval-Augmented Generation, multilingual AI systems, and semantic search. She actively supervises undergraduate and postgraduate projects related to conversational AI, intelligent tutoring systems, question answering, and educational technology. She has published more than sixty research papers in international conferences and journals. Her current work investigates how retrieval-based systems can improve the factual accuracy of language models. She encourages students to build practical AI applications using transformer models, embeddings, vector databases, and modern retrieval techniques. Students interested in chatbots, language models, search engines, semantic retrieval, or multilingual AI frequently choose her as a project supervisor because of her strong background in Natural Language Processing and Information Retrieval.

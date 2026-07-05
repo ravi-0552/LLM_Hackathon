@@ -1,0 +1,32 @@
+Professor Name: Dr. Arjun Verma
+
+Department:
+Computer Science and Engineering
+
+Designation:
+Professor
+
+Research Interests:
+- Cyber Security
+- Digital Forensics
+- Blockchain
+- Secure Systems
+
+Courses Taught:
+- Network Security
+- Cryptography
+- Ethical Hacking
+
+Publications:
+- 94 Publications
+
+Current Projects:
+- Blockchain Security
+- Secure Digital Identity
+
+Office Hours:
+Tuesday
+10:00 AM – 12:00 PM
+
+Email:
+arjun.verma@university.edu

@@ -1,0 +1,7 @@
+google-genai
+chromadb
+langgraph
+langchain-core
+python-dotenv
+tavily-python
+pydantic

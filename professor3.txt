@@ -1,0 +1,59 @@
+Name: Dr. Meera Iyer
+
+Department: Computer Science and Engineering
+
+Designation: Associate Professor
+
+Experience: 12 Years
+
+Highest Qualification: Ph.D. in Data Mining, IIT Bombay
+
+Research Interests:
+Data Mining, Big Data Analytics, Data Science, Knowledge Discovery, Predictive Analytics, Business Intelligence
+
+Research Keywords:
+Data Mining, Big Data, Hadoop, Spark, Predictive Analytics, Data Warehousing, Knowledge Discovery, Clustering, Classification
+
+Current Research Projects:
+1. Big Data Analytics for Smart Cities.
+2. Predictive Analytics in Healthcare.
+3. Educational Data Mining.
+4. Customer Behavior Analysis using AI.
+
+Selected Publications:
+1. Big Data Analytics using Distributed Frameworks (2025)
+2. Educational Data Mining for Student Performance Prediction (2024)
+3. Large Scale Data Mining Applications (2023)
+
+Courses Taught:
+Data Mining
+Big Data Analytics
+Database Management Systems
+Data Warehousing
+Data Science
+
+Research Laboratory:
+Big Data Analytics Lab
+
+Professional Memberships:
+IEEE
+ACM
+
+Awards:
+Excellence in Research Award (2023)
+
+Available for Student Guidance:
+Data Mining
+Big Data
+Predictive Analytics
+Business Intelligence
+Data Science
+
+Office:
+Block B, Room 215
+
+Email:
+meera.iyer@auroratech.edu
+
+Biography:
+Dr. Meera Iyer focuses on extracting useful knowledge from large-scale datasets. Her research includes data mining, predictive analytics, educational data mining, and business intelligence. She has guided projects involving recommendation systems, customer analytics, smart city data platforms, and healthcare analytics. She encourages students to explore practical applications of machine learning using structured and unstructured datasets.

@@ -1,0 +1,59 @@
+Name: Dr. Arjun Reddy
+
+Department: Computer Science and Engineering
+
+Designation: Associate Professor
+
+Experience: 15 Years
+
+Highest Qualification: Ph.D. in Cybersecurity, IIT Delhi
+
+Research Interests:
+Cybersecurity, Network Security, Blockchain, Digital Forensics, Ethical Hacking, Cryptography
+
+Research Keywords:
+Cybersecurity, Blockchain, Penetration Testing, Cryptography, Digital Forensics, Malware Analysis, Secure Networks, Zero Trust Security
+
+Current Research Projects:
+1. Blockchain-based secure academic records.
+2. AI-driven intrusion detection systems.
+3. Secure IoT communication.
+4. Zero Trust network architecture.
+
+Selected Publications:
+1. Blockchain Applications in Higher Education (2025)
+2. AI for Network Intrusion Detection (2024)
+3. Secure Communication Protocols for IoT Devices (2023)
+
+Courses Taught:
+Cybersecurity
+Network Security
+Cryptography
+Blockchain
+Ethical Hacking
+
+Research Laboratory:
+Cyber Defense Research Lab
+
+Professional Memberships:
+IEEE
+ISC²
+
+Awards:
+Cybersecurity Innovation Award (2024)
+
+Available for Student Guidance:
+Cybersecurity
+Blockchain
+Ethical Hacking
+Network Security
+Digital Forensics
+
+Office:
+Block A, Room 118
+
+Email:
+arjun.reddy@auroratech.edu
+
+Biography:
+Dr. Arjun Reddy specializes in cybersecurity research with expertise in blockchain, cryptography, secure communication, ethical hacking, and digital forensics. His research aims to build secure computing systems capable of defending against modern cyber threats. Students interested in penetration testing, secure software, blockchain applications, or AI-powered cybersecurity frequently work with him on research projects.

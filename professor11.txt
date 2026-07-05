@@ -1,0 +1,33 @@
+Professor Name: Dr. Priya Nair
+
+Department:
+Computer Science and Engineering
+
+Designation:
+Associate Professor
+
+Research Interests:
+- Natural Language Processing
+- Large Language Models
+- Information Retrieval
+- Text Analytics
+
+Courses Taught:
+- NLP
+- Information Retrieval
+- Data Science
+
+Publications:
+- 58 Publications
+- 2500+ Citations
+
+Current Projects:
+- Multilingual Chatbots
+- Retrieval-Augmented Generation
+
+Office Hours:
+Thursday
+3:00 PM – 5:00 PM
+
+Email:
+priya.nair@university.edu

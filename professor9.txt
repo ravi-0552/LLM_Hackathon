@@ -1,0 +1,32 @@
+Professor Name: Dr. Sneha Kulkarni
+
+Department:
+Computer Science and Engineering
+
+Designation:
+Assistant Professor
+
+Research Interests:
+- Computer Vision
+- Deep Learning
+- Autonomous Vehicles
+- Image Processing
+
+Courses Taught:
+- Computer Vision
+- Deep Learning
+- Digital Image Processing
+
+Publications:
+- 44 Journal Papers
+
+Current Projects:
+- Driver Assistance Systems
+- Drone Vision
+
+Office Hours:
+Monday
+10:00 AM – 12:00 PM
+
+Email:
+sneha.kulkarni@university.edu
